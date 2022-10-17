@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CourseRectangle\bin\Debug\netcoreapp2.1\CourseRectangle.deps.json
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CourseRectangle\bin\Debug\netcoreapp2.1\CourseRectangle.runtimeconfig.json
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CourseRectangle\bin\Debug\netcoreapp2.1\CourseRectangle.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CourseRectangle\bin\Debug\netcoreapp2.1\CourseRectangle.dll
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CourseRectangle\bin\Debug\netcoreapp2.1\CourseRectangle.pdb
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CourseRectangle\obj\Debug\netcoreapp2.1\CourseRectangle.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CourseRectangle\obj\Debug\netcoreapp2.1\CourseRectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CourseRectangle\obj\Debug\netcoreapp2.1\CourseRectangle.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CourseRectangle\obj\Debug\netcoreapp2.1\CourseRectangle.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CourseRectangle\obj\Debug\netcoreapp2.1\CourseRectangle.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CourseRectangle\obj\Debug\netcoreapp2.1\CourseRectangle.dll
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CourseRectangle\obj\Debug\netcoreapp2.1\CourseRectangle.pdb
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CourseRectangle\obj\Debug\netcoreapp2.1\CourseRectangle.genruntimeconfig.cache

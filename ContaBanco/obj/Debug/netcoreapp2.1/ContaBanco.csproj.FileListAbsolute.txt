@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\ContaBanco\bin\Debug\netcoreapp2.1\ContaBanco.deps.json
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\ContaBanco\bin\Debug\netcoreapp2.1\ContaBanco.runtimeconfig.json
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\ContaBanco\bin\Debug\netcoreapp2.1\ContaBanco.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\ContaBanco\bin\Debug\netcoreapp2.1\ContaBanco.dll
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\ContaBanco\bin\Debug\netcoreapp2.1\ContaBanco.pdb
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\ContaBanco\obj\Debug\netcoreapp2.1\ContaBanco.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\ContaBanco\obj\Debug\netcoreapp2.1\ContaBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\ContaBanco\obj\Debug\netcoreapp2.1\ContaBanco.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\ContaBanco\obj\Debug\netcoreapp2.1\ContaBanco.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\ContaBanco\obj\Debug\netcoreapp2.1\ContaBanco.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\ContaBanco\obj\Debug\netcoreapp2.1\ContaBanco.dll
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\ContaBanco\obj\Debug\netcoreapp2.1\ContaBanco.pdb
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\ContaBanco\obj\Debug\netcoreapp2.1\ContaBanco.genruntimeconfig.cache

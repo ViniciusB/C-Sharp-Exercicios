@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CotacaoDolar\bin\Debug\netcoreapp2.1\CotacaoDolar.deps.json
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CotacaoDolar\bin\Debug\netcoreapp2.1\CotacaoDolar.runtimeconfig.json
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CotacaoDolar\bin\Debug\netcoreapp2.1\CotacaoDolar.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CotacaoDolar\bin\Debug\netcoreapp2.1\CotacaoDolar.dll
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CotacaoDolar\bin\Debug\netcoreapp2.1\CotacaoDolar.pdb
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CotacaoDolar\obj\Debug\netcoreapp2.1\CotacaoDolar.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CotacaoDolar\obj\Debug\netcoreapp2.1\CotacaoDolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CotacaoDolar\obj\Debug\netcoreapp2.1\CotacaoDolar.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CotacaoDolar\obj\Debug\netcoreapp2.1\CotacaoDolar.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CotacaoDolar\obj\Debug\netcoreapp2.1\CotacaoDolar.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CotacaoDolar\obj\Debug\netcoreapp2.1\CotacaoDolar.dll
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CotacaoDolar\obj\Debug\netcoreapp2.1\CotacaoDolar.pdb
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CotacaoDolar\obj\Debug\netcoreapp2.1\CotacaoDolar.genruntimeconfig.cache

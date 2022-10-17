@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\Circunferencia\bin\Debug\netcoreapp2.1\Circunferencia.deps.json
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\Circunferencia\bin\Debug\netcoreapp2.1\Circunferencia.runtimeconfig.json
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\Circunferencia\bin\Debug\netcoreapp2.1\Circunferencia.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\Circunferencia\bin\Debug\netcoreapp2.1\Circunferencia.dll
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\Circunferencia\bin\Debug\netcoreapp2.1\Circunferencia.pdb
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\Circunferencia\obj\Debug\netcoreapp2.1\Circunferencia.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\Circunferencia\obj\Debug\netcoreapp2.1\Circunferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\Circunferencia\obj\Debug\netcoreapp2.1\Circunferencia.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\Circunferencia\obj\Debug\netcoreapp2.1\Circunferencia.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\Circunferencia\obj\Debug\netcoreapp2.1\Circunferencia.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\Circunferencia\obj\Debug\netcoreapp2.1\Circunferencia.dll
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\Circunferencia\obj\Debug\netcoreapp2.1\Circunferencia.pdb
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\Circunferencia\obj\Debug\netcoreapp2.1\Circunferencia.genruntimeconfig.cache

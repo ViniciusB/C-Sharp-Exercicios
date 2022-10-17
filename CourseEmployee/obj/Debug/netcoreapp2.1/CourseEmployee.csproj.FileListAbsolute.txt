@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CourseEmployee\bin\Debug\netcoreapp2.1\CourseEmployee.deps.json
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CourseEmployee\bin\Debug\netcoreapp2.1\CourseEmployee.runtimeconfig.json
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CourseEmployee\bin\Debug\netcoreapp2.1\CourseEmployee.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CourseEmployee\bin\Debug\netcoreapp2.1\CourseEmployee.dll
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CourseEmployee\bin\Debug\netcoreapp2.1\CourseEmployee.pdb
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CourseEmployee\obj\Debug\netcoreapp2.1\CourseEmployee.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CourseEmployee\obj\Debug\netcoreapp2.1\CourseEmployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CourseEmployee\obj\Debug\netcoreapp2.1\CourseEmployee.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CourseEmployee\obj\Debug\netcoreapp2.1\CourseEmployee.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CourseEmployee\obj\Debug\netcoreapp2.1\CourseEmployee.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CourseEmployee\obj\Debug\netcoreapp2.1\CourseEmployee.dll
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CourseEmployee\obj\Debug\netcoreapp2.1\CourseEmployee.pdb
+C:\Users\Usuario\Desktop\Estudos\CSharp-Nelio Alves\Course\CourseEmployee\obj\Debug\netcoreapp2.1\CourseEmployee.genruntimeconfig.cache
